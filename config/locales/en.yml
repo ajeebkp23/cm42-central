@@ -178,6 +178,8 @@ en:
         default_velocity:     'Default velocity'
         archived:             'Archived'
         mail_reports:         'Send reports via mail'
+        number_of_sprints_by_velocity: |
+          Number of sprints used to calculate velocity
       story:
         title:                'Title'
         description:          'Description'

@@ -175,6 +175,8 @@ pt-BR:
         default_velocity:     'Velocidade padrão'
         archived:             'Arquivado'
         mail_reports:         'Enviar relatórios por email'
+        number_of_sprints_by_velocity: |
+          Quantidade de sprints utilizadas para calcular a velocidade
       story:
         title:                'Título'
         description:          'Descrição'
